@@ -1,0 +1,127 @@
+.list{
+	margin: 0 auto;
+	background-color: #F6F3F0;
+	width: 1080px;
+	box-shadow: 5px 4px 30px silver;  
+}
+.znach{
+	width: 51px;
+	height: 70px;
+	float: left;
+	background: url(images/spriteNewOttoRU.png) no-repeat 0 -332px;
+}
+.znach1{
+	width: 61px;
+	height: 70px;
+	float: left;
+	background: url(images/spriteNewOttoRU.png) no-repeat 0 -426px;
+}
+.znach2{
+	width: 70px;
+	height: 70px;
+	float: left;
+	background: url(images/spriteNewOttoRU.png) no-repeat 0 -509px;
+}
+.ico{
+	width: 70px;
+	height: 70px;
+	float: left;
+	background: url(images/spriteNewOttoRU.png) no-repeat 0 -740px;
+}
+.ico1{
+	width: 70px;
+	height: 70px;
+	float: left;
+	background: url(images/spriteNewOttoRU.png) no-repeat 0 -829px;
+}
+.ico2{
+	width: 70px;
+	height: 70px;
+	float: left;
+	background: url(images/spriteNewOttoRU.png) no-repeat 0 -916px;
+}
+.logo{
+
+}
+body{
+	background-color: #ECE9E2;
+}
+.zleft{
+	padding-left: 60px;
+}
+.zcenter{
+	padding-left: 200px;
+}
+.zright{
+	padding-left: 200px;
+}
+.white{
+	background-color: white;
+}
+.polya{
+	padding: 40px;
+}
+.center{
+	padding-top: 20px;
+	margin: 0 auto;
+	width: 500px;
+}
+.blockright{
+	width: 276px;
+	float:left;
+	padding-left: 70px;
+}
+.blockleft{
+	float: left;
+	width: 276px;
+	padding-left: 70px;
+}
+.blockmid{
+	float: left;
+	width: 276px;
+	padding-left: 70px;
+}
+.blocks{
+	padding-top: 100px;
+	width: 1080px;
+	background-color: #F6F3F0;
+	height: 250px;
+}
+a{
+	text-decoration: none;
+}
+.class1{
+	float: left;
+	padding-left:70px;
+	font-size: 0.9em;
+	width: 200px;
+}
+.class2{
+	float: left;
+	padding-left:80px;
+	font-size: 0.9em;
+}
+.class3{
+	float: left;
+	padding-left:80px;
+	font-size: 0.9em;
+}
+.class4{
+	float:left;
+	padding-left:80px;
+	font-size: 0.9em;
+}
+footer{
+	background-color: #F6F3F0;
+	height: 150px;
+}
+.top{
+	padding-top: 50px;
+}
+.red{
+	color: red;
+}
+.fleft{
+	color: blue;
+	font-size: 12px;
+}

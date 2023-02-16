@@ -1,3 +1,6 @@
+body{
+	border: 2px black solid;
+}
 .list{
 	margin: 0 auto;
 	background-color: #F6F3F0;
